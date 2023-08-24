@@ -4,7 +4,8 @@
 
 - <b>PowerShell</b>
   - [SIEM | Azure Sentinel MAP Tutorial](https://github.com/ajtrbovic/SIEMLab/tree/main)
-
+- <b>Vulnerabillity Management</b>
+  - [OpenVAS Vulnerability Management](https://github.com/ajtrbovic/OpenVASVulnerabilityManagementLab/tree/main)
 
 <h2>Certifications</h2>
 
