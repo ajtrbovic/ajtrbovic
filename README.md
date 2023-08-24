@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [SIEM | Azure Sentinel MAP Tutorial](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [SIEM | Azure Sentinel MAP Tutorial](https://github.com/ajtrbovic/SIEMLab/tree/main)
 
 
 <h2>Certifications</h2>
