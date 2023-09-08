@@ -11,6 +11,7 @@
 
 - CompTIA A+
 - CompTIA Network+
+- CompTIA Security+
 - Certified Duo Administrator
 
 
